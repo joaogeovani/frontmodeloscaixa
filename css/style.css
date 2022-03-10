@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho{
+    height: 70px;
+    background-color: #00669F;
+    padding: 20px;
+    padding-left: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
