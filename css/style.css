@@ -16,7 +16,7 @@
   line-height: 18px;
 }
 
-.cabecalho {
+header {
   display: flex;
   align-items: center;
   padding-left: 28px;
@@ -93,12 +93,35 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.carddescricao span {
   width: 300px;
   margin-top: 30px;
   font-size: 16px;
   line-height: 19px;
   text-align: center;
   min-height: 120px;
+}
+
+.vermais {
+  margin: auto;
+  display: flex;
+  width: 145px;
+  height: 54px;
+  background: #00669f;
+  margin-top: 23px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+
+.vermais span {
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  color: #f3f3f3;
 }
 
 footer {
